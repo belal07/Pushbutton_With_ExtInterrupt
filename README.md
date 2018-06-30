@@ -13,6 +13,8 @@ Transmit Temperature measured by an LM35 Sensor through Serial Communication eve
 This application was written to a specific platform (AVR ATMEGA32) using Eclipse IDE in addition to WINAVR Compiler on Windows OS,
 However the code was written to be modifiable as much as possible to be used in another platform.
 
+ To Setup Eclipse for AVR,Please Go to the following link: http://andybrown.me.uk/2010/10/17/setting-up-eclipse-for-avr-projects/
+
 ##SoftWare Setup Instructions
 -------------------------------
 -To run This Application you need to use all The source Files(.c) and The Header Files (.h) included And compile it using the previously mentioned IDE and compiler. 
