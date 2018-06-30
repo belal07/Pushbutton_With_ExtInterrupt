@@ -4,9 +4,9 @@ This project investigate the problems to control a LED using a push button, the 
 
 This application was written to perform the following Tasks:
 
--Controlling LED using switch as interrupt, when the switch is pressed,it should Toggle the LED.
--send the State of the switch when it is pressed and The State of the LED through Serial communication.
--Transmit Temperature measured by an LM35 Sensor through Serial Communication every 3 Seconds.
+Controlling LED using switch as interrupt, when the switch is pressed,it should Toggle the LED.
+send the State of the switch when it is pressed and The State of the LED through Serial communication.
+Transmit Temperature measured by an LM35 Sensor through Serial Communication every 3 Seconds.
 ----------------------
 #Set-up instructions
 
@@ -15,8 +15,7 @@ However the code was written to be modifiable as much as possible to be used in 
 
 ##SoftWare Setup Instructions
 
--To run This Application you need to use all The source Files which is included in (SRC Folder) and The Header Files included in
-(INC Folder) And compile it using the previously mentioned IDE and compiler. 
+-To run This Application you need to use all The source Files(.c) and The Header Files (.h) included And compile it using the previously mentioned IDE and compiler. 
 
 -Another Solution is to use the XIOT.hex file directly and Flash it on ATMEGA32 Microcontroller.
 
